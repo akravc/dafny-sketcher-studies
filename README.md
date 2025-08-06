@@ -12,7 +12,7 @@ dafny-sketcher-studies/
 └── solutions/            # Solutions to the challenges
 ```
 
-### Content Descriptions
+### Contents
 
 #### `/challenges/`
 Contains Dafny verification challenges and exercises.
@@ -25,7 +25,7 @@ Stores known issues and bug reports.
 #### `/solutions/`
 Houses solutions to the challenges in the `/challenges/` directory.
 - `BSTClaude.dfy`: Claude's solution for `BST.dfy`.
-- `BSTMinimal.dfy`: a streamlined version of Claude's solution, including notes about which parts ended up being necessary for the proof. 
+- `BSTMinimal.dfy`: a streamlined version of Claude's solution, including notes about which parts ended up being necessary for the proof.
 
 
 ## Resources
