@@ -28,6 +28,8 @@ Stores known issues and bug reports.
 Houses solutions to the challenges in the `/challenges/` directory.
 - `BSTClaude.dfy`: Claude's solution for `BST.dfy`.
 - `BSTMinimal.dfy`: a streamlined version of Claude's solution, including notes about which parts ended up being necessary for the proof.
+- `SequenceClaude.dfy`: Claude's solution for `Sequence.dfy`.
+- `StackClaude.dfy`: Claude's solution for `Stack.dfy`.
 
 
 ## Resources
