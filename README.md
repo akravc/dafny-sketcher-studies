@@ -18,6 +18,8 @@ dafny-sketcher-studies/
 Contains Dafny verification challenges and exercises.
 - `BST.dfy`: classic lemmas about a binary search tree.
 - `BSTModular.dfy`: the modular implementation of `BST.dfy`.
+- `Stack.dfy`: some lemmas about stack operations.
+- `Sequence.dfy`: some lemmas about sequence operations.
 
 #### `/issues/`
 Stores known issues and bug reports.
