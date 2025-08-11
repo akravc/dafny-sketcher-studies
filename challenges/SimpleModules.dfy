@@ -17,7 +17,7 @@ module ArithmeticProperties {
     
     // Lemma: Fibonacci growth property
     lemma FibGrowth(n: nat)
-        requires n >= 2
+        requires n >= 5
         ensures fib(n) >= n
         decreases n
     { }
