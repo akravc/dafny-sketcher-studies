@@ -20,6 +20,7 @@ Contains Dafny verification challenges and exercises.
 - `BSTModular.dfy`: the modular implementation of `BST.dfy`.
 - `Stack.dfy`: some lemmas about stack operations.
 - `Sequence.dfy`: some lemmas about sequence operations.
+- `FunctionalQueue.dfy`: lemmas about a functional queue.
 
 #### `/issues/`
 Stores known issues and bug reports.
@@ -30,6 +31,7 @@ Houses solutions to the challenges in the `/challenges/` directory.
 - `BSTMinimal.dfy`: a streamlined version of Claude's solution, including notes about which parts ended up being necessary for the proof.
 - `SequenceClaude.dfy`: Claude's solution for `Sequence.dfy`.
 - `StackClaude.dfy`: Claude's solution for `Stack.dfy`.
+- `FunctionalQueueClaude.dfy`: Claude's solution for `FunctionalQueue.dfy`.
 
 
 ## Resources
